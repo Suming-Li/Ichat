@@ -1,8 +1,9 @@
 # Ichat
 This program named Ichat is based on PHP and MySQL.
+
 ![login](login.jpg)
 ![chat](chat.jpg)
-![preview](notification.jpg)
+![notifications](notifications.jpg)
 ![sign up](sign up.jpg)
 
 Function and its file:
@@ -24,4 +25,3 @@ Logout -- exit.php
 1 Please import ichat.sql into your database and change root and password in these files to make sure you can connect MySQL.
 
 2 Run index.php in two different browsers and enjoy chatting with yourself. 
-
