@@ -1,0 +1,201 @@
+
+body {
+font:12px arial;
+color: #222;
+text-align:center;
+padding:35px;
+background-image:url("images/bg.jpg");
+background-repeat:no-repeat;}
+
+#registerform { 
+padding-top:10px;
+padding-bottom:10px;
+border-radius:7px;
+margin-top:70px;
+margin-left:auto;
+margin-right:auto;
+background:white;
+width:530px;
+height:270px;
+border:1px solid #afaca1; }
+#registerform h1{
+	margin:20px;
+	color:#ffab00;
+	font-size:30px;}
+.sign{}
+label{
+	font-size:18px;}
+#signup {
+	border-radius:5px; 
+	width:85px;
+	background:#ffab00;
+	color:white;}
+
+#loginform { 
+border-radius:7px;
+margin-top:100px;
+margin-left:auto;
+margin-right:auto;
+background:white;
+width:530px;
+height:220px;
+border:1px solid #afaca1; }
+#logo {
+	padding:40px 5px 20px 20px;
+	background:white;
+	width:150px;
+	height:150px;
+	float:left; }	
+#logo img {
+	width:150px;
+	height:150px;}	
+#login {
+	padding-top:10px;
+    padding-bottom:10px;
+	background:white;
+	width:350px;
+	height:200px;
+	float:left; }
+#login h1 {
+	font-size:30px;
+	color:#ffab00;}
+#login a {
+	color:#ffab00;}
+#username {
+	border-radius:2px; 
+	width:296px; 
+	height:30px; }
+#password {
+	border-radius:2px; 
+	width:210px;
+	height:30px;}
+#enter {
+	border-radius:5px; 
+	width:85px;
+	background:#ffab00;
+	color:white;}
+
+#friendlist { 
+border-radius:7px;
+margin:auto;
+background:white;
+width:530px;
+height:530px;
+border:1px solid #afaca1; }
+#f1 {
+background:#ffab00;
+width:530px;
+height:100px;
+text-align:right;}
+.f1 {
+color:white;
+font: bold 25px "Comic Sans MS", sans-serif; 
+padding-right:10px;
+padding-left:10px;}
+#f1 h3 {
+padding-right:10px}
+#f2 {
+background:white;
+width:530px;
+height:30px;}
+#f3 {
+background:white;
+width:530px;
+height:350px;
+overflow-y:auto}
+ul li{
+font:bold 20px "Comic Sans MS", sans-serif;
+margin:10px;
+color:#ffab00;}
+
+
+
+input { font:20px arial; }
+
+a {
+color:black;
+text-decoration:none; }
+
+a:hover { text-decoration:underline; }
+
+#wrapper {
+border-radius:7px;
+margin:auto;
+background:#ffab00;
+width:530px;
+height:530px;
+border:1px solid #afaca1; }
+#chatwith {
+margin:30px 30px 10px 30px;
+background:#ffab00;
+width:470px;
+height:50px;
+text-align:right;}
+#chatwith #cw{
+	color:white;
+    font: bold 25px "Comic Sans MS", sans-serif; 
+	float:left;}
+.c1 {
+color:white;
+font: bold 20px "Comic Sans MS", sans-serif; 
+padding-left:20px;}
+
+#chatbox {
+margin:10px 30px 50px 30px; 
+background:#ffab00;
+height:280px;
+width:470px; }
+#messageBox {
+height:300px;
+width:465px;}
+#sendmessage {
+margin:30px 30px 50px 40px;
+background:#ffab00;
+width:450px;
+height:80px;}
+#sendBox {
+float:left; 
+width:375px;
+height:50px;}
+#sendmess{
+float:right;
+background:#ffab00;
+color:white;
+border-radius:5px; }
+
+
+#addfriend {
+border-radius:7px;
+margin:auto;
+background:#ffab00;
+width:500px;
+height:500px;
+border:1px solid #afaca1;}
+#af1{
+	width:400px;
+height:190px;}
+#af2{
+	background:#ffab00;
+	float:right;
+	width:380px;
+    height:300px;}
+#af2 li{
+	text-align:left;
+	font: bold 18px "Comic Sans MS", sans-serif; 
+	}
+	
+	
+#usermsg {
+width:395px;
+border:1px solid #afaca1; }
+
+#submit { width: 60px; }
+
+.error { color: #ff0000; }
+
+
+.welcome { float:left; }
+
+.logout { float:right; }
+
+.msgln { margin:0 0 2px 0; }
