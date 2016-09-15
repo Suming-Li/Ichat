@@ -1,5 +1,11 @@
-# Ichat
-This program named Ichat is based on PHP and MySQL.
+# Ichat: Chatting Application with WAMP
+
+– Developed a dynamic web application to enable users to chat with friends, send requests, receive
+notifications, and add friends.
+
+– Created a user-friendly interface using HTML, CSS, and JavaScript.
+
+– Implemented backend with Apache HTTP Server, MySQL, and PHP.
 
 ![login](login.jpg)
 ![chat](chat.jpg)
